@@ -42,3 +42,16 @@ body {
     color: #555;
   }
   
+  .credits {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    color: #555;
+  }
+  
+  .discord-link {
+    display: block;
+    color: #0077ff;
+    text-decoration: none;
+    margin-top: 5px;
+  }
