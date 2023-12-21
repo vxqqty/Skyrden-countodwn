@@ -1,57 +1,57 @@
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-  }
-  
-  .background-container {
-    background-image: url('https://cdn.discordapp.com/attachments/891384253399597206/1185616593011617813/image.png?ex=6590427f&is=657dcd7f&hm=487cf41be675241e2dde8015605b52df800ca7dbf168978c0adb6ec9b4af4387&');
-    background-size: cover;
-    background-position: center;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  
-  .countdown-container {
-    text-align: center;
-    background-color: rgba(255, 255, 255, 0.8); /* Adding a semi-transparent white background for better readability */
-    padding: 20px;
-    border-radius: 10px;
-  }
-  
-  .skyrden-text {
-    color: #0077ff; /* Blue color */
-  }
-  
-  .countdown {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-top: 20px;
-  }
-  
-  .countdown-number {
-    font-size: 4em;
-    font-weight: bold;
-    margin-right: 10px;
-  }
-  
-  .countdown-label {
-    font-size: 1.5em;
-    color: #555;
-  }
-  
-  .credits {
-    position: absolute;
-    bottom: 10px;
-    left: 10px;
-    color: #555;
-  }
-  
-  .discord-link {
-    display: block;
-    color: #0077ff;
-    text-decoration: none;
-    margin-top: 5px;
-  }
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+.background-container {
+  background-image: url('https://cdn.discordapp.com/attachments/891384253399597206/1185616593011617813/image.png?ex=6590427f&is=657dcd7f&hm=487cf41be675241e2dde8015605b52df800ca7dbf168978c0adb6ec9b4af4387&');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.countdown-container {
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.8); /* Adding a semi-transparent white background for better readability */
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.skyrden-text {
+  color: #0077ff; /* Blue color */
+}
+
+.countdown {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.countdown-number {
+  font-size: 4em;
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.countdown-label {
+  font-size: 1.5em;
+  color: #555;
+}
+
+.credits {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  color: #555;
+}
+
+.discord-link {
+  display: block;
+  color: #0077ff;
+  text-decoration: none;
+  margin-top: 5px;
+}
